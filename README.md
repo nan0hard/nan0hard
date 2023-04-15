@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nan0hard
+- 👋 Hi, I’m Nitish(@nan0hard)
 - 👀 I’m interested in Web/Mobile Development and DSA
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on MERN
