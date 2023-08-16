@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nan0hard" target="blank"><img src="https://img.shields.io/twitter/follow/nan0hard?logo=twitter&style=for-the-badge" alt="nan0hard" /></a> </p>
 
-- 🔭 I’m currently working on [mernecommerce](https://github.com/nan0hard/mernecommerce)
+- 🔭 I’m currently working on [Dhaaga](https://github.com/nan0hard/dhaaga)
 
 - 🌱 I’m currently learning **Nextjs, Typescript**
 
