@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nan0hard" target="blank"><img src="https://img.shields.io/twitter/follow/nan0hard?logo=twitter&style=for-the-badge" alt="nan0hard" /></a> </p>
 
-- 🔭 I’m currently working on [Dhaaga](https://github.com/nan0hard/dhaaga)
+- 🔭 I’m currently working on [Dhaaga](https://github.com/nan0hard/go-tuts)
 
-- 🌱 I’m currently learning **Nextjs, Typescript**
+- 🌱 I’m currently learning **Nextjs, Typescript, Go**
 
-- 👯 I’m looking to collaborate on **MERN Stack/Flutter**
+- 👯 I’m looking to collaborate on **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/nan0hard?tab=repositories)
 
