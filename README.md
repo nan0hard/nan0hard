@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **singhnitish198@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VD6t4CYa6Gn0gPtq70MJ_s582iiBhd4i/view?usp=share_link](https://drive.google.com/file/d/1VD6t4CYa6Gn0gPtq70MJ_s582iiBhd4i/view?usp=share_link)
+- 📄 Know about my experiences [Click here!](https://nanohard.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
